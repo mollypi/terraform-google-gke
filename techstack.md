@@ -3,12 +3,12 @@
 ## Tech Stack
 mollypi/terraform-google-gke is built on the following main stack:
 
-- [CircleCI](https://circleci.com/) – Continuous Integration
 - [Golang](http://golang.org/) – Languages
 - [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
+- [CircleCI](https://circleci.com/) – Continuous Integration
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Terraform](https://www.terraform.io/) – Server Configuration and Automation
 - [Testify](https://github.com/stretchr/testify) – Go Testing
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -18,12 +18,12 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 mollypi/terraform-google-gke is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png' alt='Terraform'/> [Terraform](https://www.terraform.io/) – Server Configuration and Automation
 - <img width='25' height='25' src='https://img.stackshare.io/service/8695/stretchr.png' alt='Testify'/> [Testify](https://github.com/stretchr/testify) – Go Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mollypi/terraform-google-gke](https://github.com/mollypi/terraform-google-gke)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|01/05/24 <br/>Report generated|
+|8<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
